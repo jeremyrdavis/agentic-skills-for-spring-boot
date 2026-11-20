@@ -1,0 +1,14 @@
+{
+  "name": "agentic-skills-for-spring-boot",
+  "description": "Spring Boot skills for Claude Code: project scaffolding (spring-boot-app), the Spring Boot mechanics tier for the ddd-skills plugin (spring-boot-ddd), and the Spring Boot test-mechanics tier for the tdd-skills plugin (spring-boot-tdd).",
+  "owner": {
+    "name": "jeremyrdavis"
+  },
+  "plugins": [
+    {
+      "name": "spring-boot-skills",
+      "source": "./",
+      "description": "Spring Boot skills: spring-boot-app (create and maintain Spring Boot projects), spring-boot-ddd (Spring Boot mechanics for the ddd-skills plugin), and spring-boot-tdd (Spring Boot test mechanics for the tdd-skills plugin)."
+    }
+  ]
+}

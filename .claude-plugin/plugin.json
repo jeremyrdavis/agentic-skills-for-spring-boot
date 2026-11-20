@@ -1,0 +1,9 @@
+{
+  "name": "spring-boot-skills",
+  "description": "Spring Boot skills: spring-boot-app (create and maintain Spring Boot projects), spring-boot-ddd (Spring Boot mechanics for the ddd-skills plugin), and spring-boot-tdd (Spring Boot test mechanics for the tdd-skills plugin).",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "author": {
+    "name": "jeremyrdavis"
+  }
+}
